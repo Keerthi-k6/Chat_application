@@ -10,11 +10,7 @@ The Chatting Application is a simple client-server chat application developed us
 - "Active Now" status to indicate the user's online presence.
 - Typing indicator to show when a user is typing a message.
 - Scrollable chat window with a stylish scrollbar design.
-- Customizable username and profile picture for each user.
-- Emoticons and emoji support in messages.
-- Ability to send images and files.
-- Notifications for new messages.
-- Option to clear chat history.
+- Ability to send images.
 - Cross-platform compatibility (Windows, macOS, Linux).
 
 ## Getting Started
