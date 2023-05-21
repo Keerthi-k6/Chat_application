@@ -7,7 +7,6 @@ The Chatting Application is a simple client-server chat application developed us
 - User-friendly graphical user interface (GUI) using Java Swing.
 - Real-time messaging between a client and a server.
 - Timestamp for each received message.
-- "Active Now" status to indicate the user's online presence.
 - Typing indicator to show when a user is typing a message.
 - Scrollable chat window with a stylish scrollbar design.
 - Ability to send images.
