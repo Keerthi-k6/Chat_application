@@ -9,8 +9,6 @@ The Chatting Application is a simple client-server chat application developed us
 - Timestamp for each received message.
 - Typing indicator to show when a user is typing a message.
 - Scrollable chat window with a stylish scrollbar design.
-- Ability to send images.
-- Cross-platform compatibility (Windows, macOS, Linux).
 
 ## Getting Started
 
